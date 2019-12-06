@@ -1,0 +1,15 @@
+{
+  "name": "electronsample",
+  "version": "1.0.0",
+  "description": "Electron yardımıyla html sayfasını masaüstü uygulamasına çevirdik",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caglar Yalcin",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.1.3"
+  }
+}
